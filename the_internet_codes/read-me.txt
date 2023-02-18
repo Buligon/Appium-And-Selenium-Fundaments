@@ -1,0 +1,4 @@
+PT-BR
+Todos os códigos presentes nessa pasta são feitos por mim, com o intuito de praticar Selenium. Exemplos tem como base o site: https://the-internet.herokuapp.com.
+EN
+Every code in this folder is written by me, in order to practice Selenium. Examples are done based on: https://the-internet.herokuapp.com.
